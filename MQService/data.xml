@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MQ>
+  <Account></Account>
+  <MQManagerName></MQManagerName>
+  <MQPutQueueName></MQPutQueueName>
+  <MQGetQueueName></MQGetQueueName>
+  <IPAddress_Port></IPAddress_Port>
+  <SVRConnName></SVRConnName>
+</MQ>

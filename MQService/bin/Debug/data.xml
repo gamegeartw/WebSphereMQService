@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MQ>
+  <Account>
+  </Account>
+  <MQManagerName>MEGABANK</MQManagerName>
+  <MQPutQueueName>QUEUE.GET</MQPutQueueName>
+  <MQGetQueueName>QUEUE.PUT</MQGetQueueName>
+  <IPAddress_Port>127.0.0.1(1414)</IPAddress_Port>
+  <SVRConnName>DC.SVRCONN</SVRConnName>
+</MQ>
